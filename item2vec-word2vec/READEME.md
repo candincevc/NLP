@@ -9,3 +9,4 @@ Word2vec 文件包含以下文件：
 - Item2vec_tf.ipynb: 基于tensorflow训练的word2vec
 - tensorboard使用.ipynb:在jupyter中使用tensorboard的过程。
 - Word2vec parameters.pdf: 关于word2vec的参数说明论文。
+
